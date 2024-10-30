@@ -1,7 +1,7 @@
 ## Cadastro de Clientes V2 - Sistema de Cadastro Java
 
 Este projeto consiste em uma atualização do sistema de cadastro de clientes implementado em Java, desenvolvido ao longo de uma série de etapas de aprendizado e prática. O projeto agora inclui uma versão aprimorada do cliente (CadastroClientV2) com uma interface mais elaborada, seguindo os procedimentos descritos anteriormente. O servidor foi atualizado para CadastroServerV2.
-
+ 
 ### Procedimentos em PDF
 
 Você pode acessar os procedimentos em PDF relacionados a este projeto nos seguintes links:
